@@ -3,6 +3,8 @@
 # How to read my files
 
 All analysis made on the file: spam_main.ipynb
+Most graphs are interactive but can't be displayed on Github, so only a static copy in jpg is shown here. 
+Please download and open the main python file, remove the hashtag before fig.show() to watch interactive graphs. 
 Video: https://share.vidyard.com/watch/eYeHr6cANrLX57QSQwUgDu?
 
 =======
