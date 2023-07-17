@@ -1,3 +1,12 @@
+=======
+
+# How to read my files
+
+All analysis made on the file: spam_main.ipynb
+Video: https://share.vidyard.com/watch/eYeHr6cANrLX57QSQwUgDu?
+
+=======
+
 # Orange SPAM detector
 
 ## Company's Description 📇
